@@ -20,6 +20,7 @@
   - Patterns and Best Practices
   - Performance
   - Security
+  - XState
   - Testing
     - Cypress
     - PlayWright
