@@ -5,6 +5,7 @@
   - ChatGPT 
   - DallE
   - Midjourney (Design)
+  - Stable Diffusion
   - Machine Learning
   - Natural Language Processing
  
